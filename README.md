@@ -1,16 +1,11 @@
 # submovie
 
-A new Flutter project.
+#### Home
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/3dbe91de-8060-4fb0-a5dd-fdb7882e8271)
 
-This project is a starting point for a Flutter application.
+#### Detail
+![image](https://github.com/user-attachments/assets/995310fd-980e-485e-b7e8-0c8160d6d246)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Favorite
+![image](https://github.com/user-attachments/assets/1a6270b3-ab6c-4889-bfeb-2b3be042047d)
